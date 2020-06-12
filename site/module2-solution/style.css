@@ -9,7 +9,6 @@ h1{
 
 .item{
     width: 90%;
-    height: 150px;
     background-color: gray;
     color: white;
     border: 1px solid black;
@@ -41,7 +40,6 @@ p{
 
 .row{
     width: 100%;
-    margin-bottom: 5px;
 
 }
 
@@ -94,7 +92,6 @@ p{
     .col-md-1, .col-md-2, .col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,
     .col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{
     float: left;
-    
     }
     .col-md-1{
         width: 8.33%;
@@ -139,7 +136,6 @@ p{
     .col-sm-1, .col-sm-2, .col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,
     .col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12{
     float: left;
-    
     }
     .col-sm-1{
         width: 8.33%;
