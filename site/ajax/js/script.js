@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded",
         document.querySelector("button").addEventListener("click",
             function (params) {
                 //call the function to get the name
-                ajaxutils.sendgetrqst("name.txt",
+                ajaxutils.sendgetrqst("data/name.txt",
                     function (request) {
                         var name = request.responseText; //response
 
